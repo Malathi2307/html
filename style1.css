@@ -1,0 +1,33 @@
+body{
+            margin:0;
+            font-family:Arial, sans-serif;
+  background-color:skyblue; }
+        h1{
+            text-align:center;
+            color:darkblue;
+            padding:20px;    }
+        table{
+            margin:auto; }
+        td{
+            text-align:center;
+            padding:20px; }
+        img{
+            width:250px;
+            height:300px;
+            border-radius:10px;}
+        ul{
+            list-style-type:none;
+            padding:0px; }
+        li{
+            padding:5px;
+            font-size:18px; }
+        button{
+       background-color:green;
+            color:white;
+            border:none;
+            padding:10px 20px;
+            border-radius:5px;
+            cursor:pointer;} button:hover{ background-color:darkgreen}
+
+
+
