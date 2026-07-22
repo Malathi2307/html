@@ -1,0 +1,17 @@
+body{
+    background-color:skyblue;
+    font-family:Arial, sans-serif;}
+div{
+    width:800px;
+    margin:auto;
+    margin-top:50px;
+    background-color:white;
+    padding:30px;
+    border-radius:10px;}
+h1{
+    text-align:center;
+    color:darkblue;}
+p{
+    font-size:18px;
+    line-height:35px;
+    text-align:justify;}
